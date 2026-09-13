@@ -1,1 +1,59 @@
 # mi-portafolio-digital-nikol-saenz
+🏠 1. Inicio
+
+Mi Portafolio Digital
+Nikol Sofia Saenz Vargas
+Estudiante de grado 11 | Aprendiendo y construyendo mi futuro
+
+👩‍🎓 2. Sobre mí
+
+Soy Nikol Sofia Saenz Vargas, estudiante de grado 11 de la Institución Educativa El Chairá. Durante mi etapa escolar he aprendido diferentes cosas que me han ayudado a crecer académica y personalmente.
+
+Me considero responsable, creativa y comprometida. Me gusta aprender, compartir ideas y trabajar en equipo. También realizo mi formación técnica en el SENA en Contabilización de Operaciones Comerciales y Financieras, donde he adquirido conocimientos de contabilidad y actividades comerciales.
+
+📚 3. Formación académica
+
+- Estudiante de grado 11.
+- Institución Educativa El Chairá.
+- Formación técnica en el SENA.
+- Técnico en Contabilización de Operaciones Comerciales y Financieras.
+- Conocimientos básicos de contabilidad y actividades comerciales.
+
+💡 4. Mis habilidades
+
+Soy responsable y organizada con mis actividades. Tengo creatividad para proponer ideas, buena comunicación y facilidad para trabajar en equipo. También me gusta aprender cosas nuevas y asumir responsabilidades.
+
+🍰 5. Proyectos realizados
+
+Feria empresarial: Dulce Tentación
+
+Dulce Tentación es un emprendimiento dedicado a la preparación y venta de postres. La idea fue ofrecer productos deliciosos, sencillos y llamativos.
+
+Nuestros productos:
+
+- Postre de maracuyá.
+- Postre de Oreo.
+- Postre de tres leches.
+
+Durante el proyecto organizamos los ingredientes y materiales, preparamos los postres, diseñamos su presentación, calculamos costos, establecimos precios y realizamos la venta y atención a los clientes.
+
+🌱 Sistema de riego con energía solar
+
+Este proyecto buscó aprovechar la energía solar para mantener las plantas hidratadas. Me permitió aprender cómo la tecnología y las energías renovables pueden ayudar a solucionar situaciones de la vida diaria.
+
+✍️ 6. Mi recomendación de redacción
+
+Para realizar un buen trabajo escrito es importante organizar las ideas, utilizar palabras claras y revisar la ortografía.
+
+💻 7. Publicación
+
+Para publicar mi portafolio puedo utilizar GitHub y GitHub Pages, guardando los archivos en un repositorio y configurando la página web.
+
+📞 8. Contacto
+
+Nombre: Nikol Sofia Saenz Vargas
+Ciudad: Cartagena del Chairá, Caquetá, Colombia
+Ocupación: Estudiante de grado 11
+Formación: SENA – Contabilización de Operaciones Comerciales y Financieras
+
+“Cada proyecto es una oportunidad para aprender, mejorar y acercarme a mis metas.” ✨
